@@ -9,6 +9,6 @@ DATABASE = {
     'host': 'localhost',
     'port': '5432',
     'username': 'postgres',
-    'password': 'cgtrekzyn9207',
+    'password': '',
     'database': 'scrape'
 }
