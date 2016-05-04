@@ -1,1 +1,1 @@
-# scrapy_livingsocial
+# ScraPy with Postgres for livingsocial
